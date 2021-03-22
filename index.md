@@ -1,6 +1,6 @@
 ### A Tufts University DISC Workshop
 
-### Karin Knudson and Anna Haensch
+Dr. Karin Knudson and Dr. Anna Haensch
 
 ## Description
 
