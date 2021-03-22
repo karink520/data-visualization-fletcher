@@ -56,7 +56,7 @@ Truthful Art, The: Data, Charts, and Maps for Communication by Alberto Cairo
 
 [Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html)
 
-If you are looking for an online course to go more in depth with, you might enjoy [UMichigan’s Applied Data Science with Python Specialization] (https://www.coursera.org/specializations/data-science-python)
+If you are looking for an online course to go more in depth with, you might enjoy [UMichigan’s Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 **Data visualizations in the news**
 
