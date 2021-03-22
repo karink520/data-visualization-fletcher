@@ -29,9 +29,16 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 <li> Part III Notebook </li>
 </ul>
 
+
+## Organizers
+
+Dr. Anna Haensch is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
+
+Dr. Karin Knudson is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research has involved the development and application of methods from machine learning, Bayesian statistics, and compressive sensing, particularly to neural data. She is interested in using approaches from data science to support scholarship across and between a range of disciplines, and is also interested in education for data science. 
+
 ## Additional Resources
 
-### Principles of Effective Data Visualization
+**Principles of Effective Data Visualization**
 
 Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, by Claus Wilke: A nice, readable, very visual overview of different plots, when to use them, and how to make them effective. (Available from Tufts library)
 
@@ -39,7 +46,7 @@ How Charts Lie: Getting Smarter About Visual Information by Alberto Cairo: An ex
 
 Truthful Art, The: Data, Charts, and Maps for Communication by Alberto Cairo
 
-### Data analysis and visualization in Python
+**Data analysis and visualization in Python**
 
 [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
 
@@ -51,16 +58,9 @@ Truthful Art, The: Data, Charts, and Maps for Communication by Alberto Cairo
 
 If you are looking for an online course to go more in depth with, you might enjoy [UMichigan’s Applied Data Science with Python Specialization] (https://www.coursera.org/specializations/data-science-python)
 
-### Data visualizations in the news
+**Data visualizations in the news**
 
 [The 40 Weirdest (And Best) Charts We Made In This Long, Strange Year] (https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/)
 
 This New York Times [retrospective article](https://www.nytimes.com/interactive/2019/04/22/upshot/upshot-at-five-years.html) has a nice range of examples of ways to communicate visually about data: 
-
-
-## Organizers
-
-Dr. Anna Haensch is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
-
-Dr. Karin Knudson is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research has involved the development and application of methods from machine learning, Bayesian statistics, and compressive sensing, particularly to neural data. She is interested in using approaches from data science to support scholarship across and between a range of disciplines, and is also interested in education for data science. 
 
