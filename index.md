@@ -40,11 +40,11 @@ Dr. Karin Knudson is a Senior Data Scientist in the Tufts Data Intensive Studies
 
 **Principles of Effective Data Visualization**
 
-Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, by Claus Wilke: A nice, readable, very visual overview of different plots, when to use them, and how to make them effective. (Available from Tufts library)
+*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures* by Claus Wilke: A nice, readable, very visual overview of different plots, when to use them, and how to make them effective. (Available from Tufts library)
 
-How Charts Lie: Getting Smarter About Visual Information by Alberto Cairo: An excellent book about how data visualizations are used and misused.
+*How Charts Lie: Getting Smarter About Visual Information* by Alberto Cairo: An excellent book about how data visualizations are used and misused.
 
-Truthful Art, The: Data, Charts, and Maps for Communication by Alberto Cairo
+*The Truthful Art: Data, Charts, and Maps for Communication* by Alberto Cairo
 
 **Data analysis and visualization in Python**
 
