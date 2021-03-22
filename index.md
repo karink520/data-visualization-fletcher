@@ -31,6 +31,33 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Additional Resources
 
+### Principles of Effective Data Visualization
+
+Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, by Claus Wilke: A nice, readable, very visual overview of different plots, when to use them, and how to make them effective. (Available from Tufts library)
+
+How Charts Lie: Getting Smarter About Visual Information by Alberto Cairo: An excellent book about how data visualizations are used and misused.
+
+Truthful Art, The: Data, Charts, and Maps for Communication by Alberto Cairo
+
+### Data analysis and visualization in Python
+
+[Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
+
+[A gallery of simple plots in matplotlib](https://matplotlib.org/stable/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py)
+
+[Examples in seaborn](https://seaborn.pydata.org/examples/index.html)
+
+[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html)
+
+If you are looking for an online course to go more in depth with, you might enjoy [UMichigan’s Applied Data Science with Python Specialization] (https://www.coursera.org/specializations/data-science-python)
+
+### Data visualizations in the news
+
+[The 40 Weirdest (And Best) Charts We Made In This Long, Strange Year] (https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/)
+
+This New York Times [retrospective article](https://www.nytimes.com/interactive/2019/04/22/upshot/upshot-at-five-years.html) has a nice range of examples of ways to communicate visually about data: 
+
+
 ## Organizers
 
 Dr. Anna Haensch is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
