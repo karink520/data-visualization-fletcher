@@ -16,6 +16,8 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 <ul>
 <li> Introductory Slides </li>
 <li> Part I Notebook </li>
+<li> Introduction to Python Basics Notebook</li>
+<li> Introduction to Dataframes Notebook</li>  
 </ul>
 
 ### Day 2 Data Classic Data Visualizations 
