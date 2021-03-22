@@ -60,7 +60,7 @@ If you are looking for an online course to go more in depth with, you might enjo
 
 **Data visualizations in the news**
 
-[The 40 Weirdest (And Best) Charts We Made In This Long, Strange Year] (https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/)
+[The 40 Weirdest (And Best) Charts We Made In This Long, Strange Year](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/) from FiveThirtyEight
 
-This New York Times [retrospective article](https://www.nytimes.com/interactive/2019/04/22/upshot/upshot-at-five-years.html) has a nice range of examples of ways to communicate visually about data: 
+This New York Times [retrospective article from the Upshot](https://www.nytimes.com/interactive/2019/04/22/upshot/upshot-at-five-years.html) has a nice range of examples of ways to communicate visually about data: 
 
