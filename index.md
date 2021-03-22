@@ -66,3 +66,6 @@ If you are looking for an online course to go more in depth with, you might enjo
 
 This New York Times [retrospective article from the Upshot](https://www.nytimes.com/interactive/2019/04/22/upshot/upshot-at-five-years.html) has a nice range of examples of ways to communicate visually about data
 
+[Information Is Beautiful: Beautiful News](https://informationisbeautiful.net/beautifulnews/)
+
+
