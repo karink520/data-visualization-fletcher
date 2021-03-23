@@ -13,28 +13,24 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Agenda and Materials
 ### Day 1: Data Preparation with Python
-* [Introductory Slides](https://docs.google.com/presentation/d/1bEcdb83Agy6WNHovxx4ve1BpLNp2Y6RMLtFtaXZLDe0/edit?usp=sharing) </li>
-* [Part I Notebook](https://colab.research.google.com/drive/1CeZLphSEBBO6aAxRjwhUW4ZjsMRWcear?usp=sharing) </li>
-* [Introduction to Python Basics Notebook](https://colab.research.google.com/drive/1ZST6QSPYBHRGazMiDMcgmSgEAv8OdcH3?usp=sharing)</li>
-* [Introduction to Dataframes Notebook](https://colab.research.google.com/drive/1rpmAZ6TO6dFZ8C2WRvldlETv0VEVtj-z?usp=sharing)</li>  
+* [Introductory Slides](https://docs.google.com/presentation/d/1bEcdb83Agy6WNHovxx4ve1BpLNp2Y6RMLtFtaXZLDe0/edit?usp=sharing)
+* [Part I Notebook](https://colab.research.google.com/drive/1CeZLphSEBBO6aAxRjwhUW4ZjsMRWcear?usp=sharing)
+* [Introduction to Python Basics Notebook](https://colab.research.google.com/drive/1ZST6QSPYBHRGazMiDMcgmSgEAv8OdcH3?usp=sharing)
+* [Introduction to Dataframes Notebook](https://colab.research.google.com/drive/1rpmAZ6TO6dFZ8C2WRvldlETv0VEVtj-z?usp=sharing) 
 
 ### Day 2 Data Classic Data Visualizations 
-<ul>
-<li> Classic Data Visualizations </li>
-<li> Part II Notebook </li>
-</ul>
+* Classic Data Visualizations
+* Part II Notebook
 
 ### Day 3 Fancy charts
-<ul>
-<li> Part III Notebook </li>
-</ul>
-
+* Day 3 Slides
+* Part III Notebook 
 
 ## Organizers
 
-Dr. Anna Haensch is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
+[Dr. Anna Haensch](https://annahaensch.com/) is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
 
-Dr. Karin Knudson is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research has involved the development and application of methods from machine learning, Bayesian statistics, and compressive sensing, particularly to neural data. She is interested in using approaches from data science to support scholarship across and between a range of disciplines, and is also interested in education for data science. 
+[Dr. Karin Knudson](https://karinknudson.com/) is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics.  Her research has involved the development and application of methods from machine learning, Bayesian statistics, and compressive sensing, particularly to neural data. She is interested in using approaches from data science to support scholarship across and between a range of disciplines, and is also interested in education for data science. 
 
 ## Additional Resources
 
