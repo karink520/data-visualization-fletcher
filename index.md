@@ -14,13 +14,12 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 ## Agenda and Materials
 ### Day 1: Data Preparation with Python
 * [Introductory Slides](https://docs.google.com/presentation/d/1bEcdb83Agy6WNHovxx4ve1BpLNp2Y6RMLtFtaXZLDe0/edit?usp=sharing)
-* [Part I Notebook](https://colab.research.google.com/drive/1CeZLphSEBBO6aAxRjwhUW4ZjsMRWcear?usp=sharing)
 * [Introduction to Python Basics Notebook](https://colab.research.google.com/drive/1ZST6QSPYBHRGazMiDMcgmSgEAv8OdcH3?usp=sharing)
 * [Introduction to Dataframes Notebook](https://colab.research.google.com/drive/1rpmAZ6TO6dFZ8C2WRvldlETv0VEVtj-z?usp=sharing) 
+* [Part I Notebook](https://colab.research.google.com/drive/1CeZLphSEBBO6aAxRjwhUW4ZjsMRWcear?usp=sharing)
 
 ### Day 2 Data Classic Data Visualizations 
-* Classic Data Visualizations
-* Part II Notebook
+* [Part II Notebook](https://colab.research.google.com/drive/1lR1dlRhvHEHATHjTl_fWmqOOQHsSFTI9?usp=sharing)
 
 ### Day 3 Fancy charts
 * Day 3 Slides
