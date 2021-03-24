@@ -43,6 +43,8 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 
 **Data analysis and visualization in Python**
 
+*Python Crash Course* by Eric Matthes: If you want an in-depth but friendly introduction to Python that starts with the very basics but builds up to some more complex example projects. (Available from Tufts library.)
+
 [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
 
 [A gallery of simple plots in matplotlib](https://matplotlib.org/stable/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py)
