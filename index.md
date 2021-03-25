@@ -22,8 +22,8 @@ Please fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQ
 * [Part II Notebook](https://colab.research.google.com/drive/1lR1dlRhvHEHATHjTl_fWmqOOQHsSFTI9?usp=sharing)
 
 ### Day 3 Fancy charts
-* Day 3 Slides
-* Part III Notebook 
+* [Part III Notebook - Maps](https://colab.research.google.com/drive/1ecJjVWqXfHhlJHc-1bXfutiXv3av-mPF?usp=sharing)
+* [Part III Notebook - Radial Charts](https://colab.research.google.com/drive/1K27PbNcJTneiMcH_ShAfHuIkpZghlybA?usp=sharing)
 
 ## Organizers
 
